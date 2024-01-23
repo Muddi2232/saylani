@@ -122,13 +122,13 @@ img{
 
 .kuchbhi{
     flex-wrap: wrap;
-    
     display: inline-flex;
 }
 .kuchbhi>img{
     border: 5px solid white;
     border-radius: 20px;
     width: 180px;
+    
 }
 .h1{
     text-align: center;
